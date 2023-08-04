@@ -1,4 +1,5 @@
 // Smallest in out of three
+// Smallest in out of three
 #include <stdio.h>
 int main(int argc, char const *argv[])
 {
